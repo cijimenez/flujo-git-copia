@@ -12,3 +12,8 @@ Se recomienda crear una organización que se la propietaria principal. A partir 
 3. Click en nueva organización
 4. Elegir plan y llenar datos necesarios
 
+## Creación de Fork
+
+Para crear un fork se debe iniciar sesión en GitHub y luego ingrresa al lading page del proyecto de cual se requiere un Fork.
+
+
