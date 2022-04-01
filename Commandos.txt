@@ -1,0 +1,1 @@
+git checkout -b [nombre_rama] ## crea una nueva rama y nos cambia 
